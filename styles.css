@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.limHead {
+  box-sizing: border-box;
+  max-width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 55px;
+  padding-right: 55px;
+  background-color: aliceblue;
+}
+
+.headr {
+  background-color: aqua;
+}
+
+.logoMain {
+  display: flex;
+  align-items: center;
+}
+
+.logoImg {
+  box-sizing: border-box;
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  margin-right: 5px;
+}
+
+.jumb {
+  background-color: bisque;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+}
+
+
